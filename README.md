@@ -5,4 +5,4 @@ Link demo video + trained model: https://drive.google.com/drive/folders/16sIjDFc
 https://ibug.doc.ic.ac.uk/resources/facial-point-annotations/
 
 -------------------------------------------------------------------------------------
-nguyendochithao@gmail.com
+Email: nguyendochithao@gmail.com
